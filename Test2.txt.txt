@@ -1,2 +1,3 @@
 Java is a object oriented lang.
 
+It contains object & classes
